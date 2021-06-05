@@ -1,4 +1,4 @@
-FROM gcc:9.4.0 AS builder
+FROM gcc:11.1.0 AS builder
 
 COPY ./twemproxy /usr/src/twemproxy
 WORKDIR /usr/src/twemproxy
