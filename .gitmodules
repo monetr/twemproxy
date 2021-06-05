@@ -1,0 +1,3 @@
+[submodule "twemproxy"]
+	path = twemproxy
+	url = https://github.com/twitter/twemproxy.git
